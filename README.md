@@ -29,3 +29,24 @@ The tab holds 420  agents, one row each, with 10 columns and no duplicate rows, 
 • Policies created: 2,967 since Sep 30. The tab does not say whether they were paid or which platform they came from.
 
 • Paid business: not on this tab. Hand checks from Oct 3 cover 34 of these agents: 301 sales, 53 unpaid, 268 on the PWA and 33 on the old platform.  
+
+
+### PROBLEM STATEMENT 
+
+LAMI cannot yet tell which agents are losing business and which are still producing, because the data mixes browsing, quotes and policies written, and does not record payment or platform. Every agent on this tab sold at least once since Sep 30, so the risk is a slowdown, not a full stop: an agent who sold hundreds of policies before Sep 30 and only 1 or 2 since looks active on a simple "has sales" check.
+
+
+The analysis needs to answer five questions:
+
+
+1. Which agents browse heavily on the PWA but write few policies since Sep 30?
+
+2. Which agents are selling far below their own history before Sep 30?
+
+3. Which agents are actively generating business, and what share of recent sales do they account for?
+
+4. How much of each agent's recorded activity is actual business: policies created, and of those, how many are paid?
+
+5. Where is platform attribution unclear, so that an apparent drop may be selling on the old platform instead?
+
+A good result is a named, prioritised list of slowing and non-converting agents for follow-up, with each classification shown alongside the evidence behind it and its known gaps.
