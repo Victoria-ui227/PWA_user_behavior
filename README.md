@@ -39,4 +39,4 @@ A good result is a named, prioritised list of slowing and non-converting agents 
 
 ## FINDINGS
 ### Sales share before and since September 30th
-![Sales Trends](plots/share_before_since.png)
+![Share Before and Since](plots/share_before_since.png)
