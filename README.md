@@ -1,10 +1,9 @@
 ## AGENTS/USER BEHAVIOR SINCE SEPTEMBER 30TH
-This analysis finds the agents who browse product son yhe PWA platform but write relatively few policies, and separates agents whose business is slowing from those still producing. It covers the 420 agents on the 'Low frewuency(browse over buy)' tab of tje warehouse-verified extract dated October 8, 2026
+This analysis examines 420 agents on the *Low Frequency (Browse Over Buy)* tab of the warehouse-verified extract dated October 8, 2026, identifying those who browse products on PWA but create relatively few policies, and distinguishing declining business from consistently low sales.
 
+Since PWA product-view tracking began around September 30, 2026, sales before this date represent historical performance, while sales since then indicate recent activity.
 
-We are moving agents from the old agent platform to the PWA. Product-view tracking on the PWA began around Sep 30, 2026, so September 30th is the dividing line: sales before it show each agent's history, and sales since it show current activity.Comparing the two shows who has slowed down, not just who sells little.
-
-The analysis treats browsing, quotes, policies created and paid  business as different signals. A product view or a quote is not a sale, and a policy written is not proof of payment. Keeping them apart avoids labelling a busy browser as productive, or a busy seller on the old platform as a dropper
+Browsing, quotes, policies created, and paid business are treated as separate signals. Viewing products or creating a policy does not necessarily mean a sale was completed or paid.
 
 ### DATA UNDERSTANDING
 
@@ -50,3 +49,8 @@ The analysis needs to answer five questions:
 5. Where is platform attribution unclear, so that an apparent drop may be selling on the old platform instead?
 
 A good result is a named, prioritised list of slowing and non-converting agents for follow-up, with each classification shown alongside the evidence behind it and its known gaps.
+
+
+## FINDINGS
+### Sales share before and since September 30th
+![Monthly Sales Trends](plots/Share_of_sales.png)
