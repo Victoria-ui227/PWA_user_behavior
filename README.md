@@ -5,20 +5,6 @@ Since PWA product-view tracking began around September 30, 2026, sales before th
 
 Browsing, quotes, policies created, and paid business are treated as separate signals. Viewing products or creating a policy does not necessarily mean a sale was completed or paid.
 
-### DATA UNDERSTANDING
-
-The tab holds 420  agents, one row each, with 10 columns and no duplicate rows, names, emails or phone numbers. Every agent made at least one sale since September 30 and viewed at least 2 products, so the tab is a filtered group, not the full agent roster.
-
-#### *Source and Scope*
-
-- File: 'Lami- Droppers + Low-freq buyers(warehouse-verified, Oct 8 2026)' second sheet. The first sheet holds 151 agents with no sales since September 30th.
-
-- Period: Since September 30th to 0ctober 8th, 2026(about 8 days), inferred from the column names and the file date. No row carries a date.
-
-- Sort order: by viewed_per_sale, highest first.
-- Comparison point: te earlier 'Dropper lists (September 30-Oct 3 2026)' sheet , where 269 of these agents also apppear.
-
-
 #### *Activity versus business*
 
 • Activity: 5,773 view events. Shows interest only.
