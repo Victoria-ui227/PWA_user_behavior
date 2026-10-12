@@ -42,7 +42,11 @@ A good result is a named, prioritised list of slowing and non-converting agents 
 ![Share Before and Since](plots/share_before_since.png)
 
 • Slowing agents are the clear drop. They hold more past business than the browsing and steady groups combined, but now write about 4 policies per 1,000 past sales, a quarter of the overall 15.8.
+
 • Producing agents carry the book in both periods. Their share rises slightly, from 78.8% to 81.6%.
+
 • Browsing and low-but-steady agents gained share. They are small sellers with short histories, so even a few recent policies lift their ratio; this does not mean they are strong performers.
+
 • New agents have no history, so they cannot be compared this way.
+
 Limits: The window since Sep 30 is about 8 days, which is short for agents who sell weekly or monthly.
