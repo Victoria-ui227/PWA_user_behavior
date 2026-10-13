@@ -50,3 +50,6 @@ A good result is a named, prioritised list of slowing and non-converting agents 
 • New agents have no history, so they cannot be compared this way.
 
 Limits: The window since Sep 30 is about 8 days, which is short for agents who sell weekly or monthly.
+
+### Sales since Sep 30th
+The 420 agents wrote 2,967 policies between Sep 30 and Oct 8, but half of them came from just 58 agents (14%). The typical agent wrote 4 policies, about one every two days, while the top agent wrote 170.
