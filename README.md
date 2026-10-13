@@ -54,21 +54,24 @@ Limits: The window since Sep 30 is about 8 days, which is short for agents who s
 ### Sales since Sep 30th
 The 420 agents wrote 2,967 policies between Sep 30 and Oct 8, but half of them came from just 58 agents (14%). The typical agent wrote 4 policies, about one every two days, while the top agent wrote 170.
 
-![Agents Sales Performance](plots/sales_band_table.png.png)
+![Agent Sales Performance by Band](plots/sales_band_table.png)
 
 • The mean is 7.1 policies per agent but the median is 4; a few large agents pull the average up. 134 agents (32%) wrote only 1 or 2 policies and together account for 6.9% of the total.77 agents with 10 or more policies (18%) wrote 57% of the total.
 
 *Concentration*
+
 • The top 10 agents wrote 21.6% of all policies since Sep 30; the top 42 (10%) wrote 43.5%. 181 agents (43%) account for 80% of policies.
 
 • Top 5: Warfa & Associates Agency 170, Leila Chebet 103, Khaira Ali 62, Ann Kimani 61, Michael Ndungu 55. All five also have 4,000+ lifetime sales.
 
 *Browsing and selling*
+
 • Agents who sell more also browse more (rank correlation 0.5 between view events and policies).Heavy sellers need fewer views per policy: about 1.2 views per policy for agents with 50+ policies, against 6 for agents with one policy.
 
 • Recent volume tracks history: median lifetime sales rise from 54 for one-policy agents to 5,870 for the 50+ group.
 
 *Where the policies come from*
+
 • Nairobi City has 198 agents and 44% of policies, with a median of 3 per agent.
 • Mombasa (10.0%) and Kiambu (9.6%) follow, with higher medians of 6 and 5.5.
 • Kericho's 3.5% comes from one agent, Leila Chebet.
