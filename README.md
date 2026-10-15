@@ -54,7 +54,10 @@ Limits: The window since Sep 30 is about 8 days, which is short for agents who s
 ### Sales since Sep 30th
 The 420 agents wrote 2,967 policies between Sep 30 and Oct 8, but half of them came from just 58 agents (14%). The typical agent wrote 4 policies, about one every two days, while the top agent wrote 170.
 
-![Agent Sales Performance by Band](plots/sales_band_table.png)
+<p align="center">
+  <img src="plots/sales_band_table.png" width="48%" />
+  <img src="plots/sales_since_sep30_bands.png" width="48%" />
+</p>
 
 • The average agent wrote 7.1 policies, but the typical agent wrote only 4. This is because a small number of high-performing agents wrote many more policies than everyone else. 134 agents (32%) wrote only 1–2 policies. Together, they contributed just 6.9% of all policies.77 agents (18%) wrote 10 or more policies and accounted for 57% of all policies. This shows that policy production is concentrated among a relatively small group of agents.
 - A small group accounts for a large share of sales:The top 10 agents produced 21.6% of all policies written since September 30.The top 42 agents (10% of the agents analysed) produced 43.5% of all policies.Just 181 agents (43%) accounted for 80% of all policies.
@@ -72,7 +75,7 @@ Michael Ndungu — 55
 
 All five also have more than 4,000 lifetime sales, suggesting that the strongest recent performers are also experienced agents with substantial sales histories.
 
-####*How browsing relates to selling* 
+#### *How browsing relates to selling* 
 
 -Agents who sell more also tend to browse products more frequently. The relationship between product-view events and policies was moderately positive (correlation of 0.5).However, high-performing agents appear to convert their browsing into policies more efficiently:
 
