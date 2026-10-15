@@ -72,7 +72,7 @@ Michael Ndungu — 55
 
 All five also have more than 4,000 lifetime sales, suggesting that the strongest recent performers are also experienced agents with substantial sales histories.
 
-#### * How browsing relates to selling* 
+####*How browsing relates to selling* 
 
 -Agents who sell more also tend to browse products more frequently. The relationship between product-view events and policies was moderately positive (correlation of 0.5).However, high-performing agents appear to convert their browsing into policies more efficiently:
 
