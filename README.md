@@ -56,27 +56,39 @@ The 420 agents wrote 2,967 policies between Sep 30 and Oct 8, but half of them c
 
 ![Agent Sales Performance by Band](plots/sales_band_table.png)
 
-• The mean is 7.1 policies per agent but the median is 4; a few large agents pull the average up. 134 agents (32%) wrote only 1 or 2 policies and together account for 6.9% of the total.77 agents with 10 or more policies (18%) wrote 57% of the total.
+• The average agent wrote 7.1 policies, but the typical agent wrote only 4. This is because a small number of high-performing agents wrote many more policies than everyone else. 134 agents (32%) wrote only 1–2 policies. Together, they contributed just 6.9% of all policies.77 agents (18%) wrote 10 or more policies and accounted for 57% of all policies. This shows that policy production is concentrated among a relatively small group of agents.
+- A small group accounts for a large share of sales:The top 10 agents produced 21.6% of all policies written since September 30.The top 42 agents (10% of the agents analysed) produced 43.5% of all policies.Just 181 agents (43%) accounted for 80% of all policies.
+- The five highest-producing agents were:
 
-*Concentration*
+Warfa & Associates Agency — 170 policies
 
-• The top 10 agents wrote 21.6% of all policies since Sep 30; the top 42 (10%) wrote 43.5%. 181 agents (43%) account for 80% of policies.
+Leila Chebet — 103
 
-• Top 5: Warfa & Associates Agency 170, Leila Chebet 103, Khaira Ali 62, Ann Kimani 61, Michael Ndungu 55. All five also have 4,000+ lifetime sales.
+Khaira Ali — 62
 
-*Browsing and selling*
+Ann Kimani — 61
 
-• Agents who sell more also browse more (rank correlation 0.5 between view events and policies).Heavy sellers need fewer views per policy: about 1.2 views per policy for agents with 50+ policies, against 6 for agents with one policy.
+Michael Ndungu — 55
 
-• Recent volume tracks history: median lifetime sales rise from 54 for one-policy agents to 5,870 for the 50+ group.
+All five also have more than 4,000 lifetime sales, suggesting that the strongest recent performers are also experienced agents with substantial sales histories.
+
+#### * How browsing relates to selling* 
+
+-Agents who sell more also tend to browse products more frequently. The relationship between product-view events and policies was moderately positive (correlation of 0.5).However, high-performing agents appear to convert their browsing into policies more efficiently:
+
+Agents who wrote 50 or more policies averaged approximately 1.2 views per policy.Agents who wrote only one policy averaged around 6 views per policy.Agents with stronger recent sales also had much higher lifetime sales. The median lifetime sales increased from 54 among agents who wrote one recent policy to 5,870 among those who wrote 50 or more.
+
+This suggests that experienced, established agents may be better at turning product interest into business. However, browsing activity alone does not tell us whether an agent will make a sale.
 
 *Where the policies come from*
+Nairobi City contributed the largest share of policies, accounting for 44% of the total, from 198 agents. The median was 3 policies per agent.
 
-• Nairobi City has 198 agents and 44% of policies, with a median of 3 per agent.
-• Mombasa (10.0%) and Kiambu (9.6%) follow, with higher medians of 6 and 5.5.
-• Kericho's 3.5% comes from one agent, Leila Chebet.
+The next-largest contributors were:
 
-Change since Oct 3
-Of the 269 agents on both snapshots, 217 added policies between Oct 3 and Oct 8, 45 added none, and 7 had lower counts, which points to cancellations.
-Limits
-These are policies written, not paid business, and only PWA-recorded sales are certain to be included. With no sale dates, "one every two days" assumes an 8-day window.
+Mombasa: 10.0% of policies, with a median of 6 per agent.
+
+Kiambu: 9.6% of policies, with a median of 5.5 per agent.
+
+Kericho contributed 3.5% of all policies, but this came from just one agent, Leila Chebet. This means Kericho's contribution reflects one individual's performance rather than broad activity across multiple agents.
+
+
