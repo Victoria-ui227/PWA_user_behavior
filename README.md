@@ -94,4 +94,4 @@ Kiambu: 9.6% of policies, with a median of 5.5 per agent.
 
 Kericho contributed 3.5% of all policies, but this came from just one agent, Leila Chebet. This means Kericho's contribution reflects one individual's performance rather than broad activity across multiple agents.
 
-![Snapshot of Business Activity](plots/agent_funnel.png.png)
+![Snapshot of Business Activity](plots/agent_funnel.png)
