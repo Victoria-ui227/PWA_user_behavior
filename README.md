@@ -95,3 +95,7 @@ Kiambu: 9.6% of policies, with a median of 5.5 per agent.
 Kericho contributed 3.5% of all policies, but this came from just one agent, Leila Chebet. This means Kericho's contribution reflects one individual's performance rather than broad activity across multiple agents.
 
 ![Snapshot of Business Activity](plots/agent_funnel.png)
+
+-Browsing is the biggest drop. Only 228 agents (54%) had 9 or more view events, so 192 dropped out at the first step. Many agents sell without much PWA browsing, which points to the old platform or offline channels.
+- History filters out the next big group. Of the 193 agents who browse widely, only 115 also have a strong track record of 180+ quotes and 190+ sales before Sep 30. Almost everyone with a strong history is still selling. 104 of those 115 agents wrote 4 or more policies since Sep 30.
+- The 104 agents at the bottom (25%) wrote 56% of all policies since Sep 30. They are LAMI’s core producers. The 11 who drop out at the last step are the follow-up list. They browse a lot and have a strong history, but are selling below the median now. Edvan Insurance Agency is one of them, and an earlier check found most of its sales were on the old platform.
