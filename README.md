@@ -77,11 +77,11 @@ All five also have more than 4,000 lifetime sales, suggesting that the strongest
 
 #### *How browsing relates to selling* 
 
--Agents who sell more also tend to browse products more frequently. The relationship between product-view events and policies was moderately positive (correlation of 0.5).However, high-performing agents appear to convert their browsing into policies more efficiently:
+- Agents who sell more also tend to browse products more frequently. The relationship between product-view events and policies was moderately positive (correlation of 0.5).However, high-performing agents appear to convert their browsing into policies more efficiently:
 
-Agents who wrote 50 or more policies averaged approximately 1.2 views per policy.Agents who wrote only one policy averaged around 6 views per policy.Agents with stronger recent sales also had much higher lifetime sales. The median lifetime sales increased from 54 among agents who wrote one recent policy to 5,870 among those who wrote 50 or more.
+- Agents who wrote 50 or more policies averaged approximately 1.2 views per policy.Agents who wrote only one policy averaged around 6 views per policy.Agents with stronger recent sales also had much higher lifetime sales. The median lifetime sales increased from 54 among agents who wrote one recent policy to 5,870 among those who wrote 50 or more.
 
-This suggests that experienced, established agents may be better at turning product interest into business. However, browsing activity alone does not tell us whether an agent will make a sale.
+- This suggests that experienced, established agents may be better at turning product interest into business. However, browsing activity alone does not tell us whether an agent will make a sale.
 
 *Where the policies come from*
 Nairobi City contributed the largest share of policies, accounting for 44% of the total, from 198 agents. The median was 3 policies per agent.
@@ -96,6 +96,6 @@ Kericho contributed 3.5% of all policies, but this came from just one agent, Lei
 
 ![Snapshot of Business Activity](plots/agent_funnel.png)
 
--Browsing is the biggest drop. Only 228 agents (54%) had 9 or more view events, so 192 dropped out at the first step. Many agents sell without much PWA browsing, which points to the old platform or offline channels.
+- Browsing is the biggest drop. Only 228 agents (54%) had 9 or more view events, so 192 dropped out at the first step. Many agents sell without much PWA browsing, which points to the old platform or offline channels.
 - History filters out the next big group. Of the 193 agents who browse widely, only 115 also have a strong track record of 180+ quotes and 190+ sales before Sep 30. Almost everyone with a strong history is still selling. 104 of those 115 agents wrote 4 or more policies since Sep 30.
 - The 104 agents at the bottom (25%) wrote 56% of all policies since Sep 30. They are LAMI’s core producers. The 11 who drop out at the last step are the follow-up list. They browse a lot and have a strong history, but are selling below the median now. Edvan Insurance Agency is one of them, and an earlier check found most of its sales were on the old platform.
