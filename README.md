@@ -108,5 +108,5 @@ Kericho contributed 3.5% of all policies, but this came from just one agent, Lei
 - **Measure the shift between platforms**: Use PWA sales and Old Platform sales to calculate each agent’s share of business generated through PWA. This will help identify agents who appear inactive on the new platform but continue to generate sales through the old platform.
 - **Recency-based definition of a dropper**: Move beyond the fixed September 30 cutoff by considering the number of days since an agent’s last sale alongside their historical sales frequency. This would provide a more relevant definition of inactivity and help reprioritize the droppers list based on each agent’s usual business pattern.
 
-#### **'Active' and 'Dropper' Agents Business Activity
+#### **'Active' and 'Dropper' Agents Business Activity**
   
