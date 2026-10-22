@@ -1,4 +1,4 @@
-## AGENTS/USER BEHAVIOR SINCE SEPTEMBER 30TH
+## AGENTS/USER BEHAVIOR 
 This analysis examines 420 agents on the *Low Frequency (Browse Over Buy)* tab of the warehouse-verified extract dated October 8, 2026, identifying those who browse products on PWA but create relatively few policies, and distinguishing declining business from consistently low sales.
 
 Since PWA product-view tracking began around September 30, 2026, sales before this date represent historical performance, while sales since then indicate recent activity.
@@ -107,4 +107,6 @@ Kericho contributed 3.5% of all policies, but this came from just one agent, Lei
 - **Identify product preferences**: Determine which products droppers and active agents view and purchase most frequently. Since the current sheet contains aggregate counts, this will require product-level viewing and sales data to establish agents’ preferred products and whether browsing translates into purchases.
 - **Measure the shift between platforms**: Use PWA sales and Old Platform sales to calculate each agent’s share of business generated through PWA. This will help identify agents who appear inactive on the new platform but continue to generate sales through the old platform.
 - **Recency-based definition of a dropper**: Move beyond the fixed September 30 cutoff by considering the number of days since an agent’s last sale alongside their historical sales frequency. This would provide a more relevant definition of inactivity and help reprioritize the droppers list based on each agent’s usual business pattern.
+
+#### **'Active' and 'Dropper' Agents Business Activity
   
