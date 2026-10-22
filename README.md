@@ -109,4 +109,11 @@ Kericho contributed 3.5% of all policies, but this came from just one agent, Lei
 - **Recency-based definition of a dropper**: Move beyond the fixed September 30 cutoff by considering the number of days since an agent’s last sale alongside their historical sales frequency. This would provide a more relevant definition of inactivity and help reprioritize the droppers list based on each agent’s usual business pattern.
 
 #### **'Active' and 'Dropper' Agents Business Activity**
-  
+
+We compared 187 agents who have made no sales since 30 September (“droppers”) with 578 agents who are still selling.After running a test(Mann-Whitney Test) to compare the interaction of the agents with the platform in terms of; browsing, quotes, and polices created both paid and unpaid, there was a significant difference between the two groups. Dropper agents had substantially lower browsing activity(averagely), lifetime quotes and lifetime sales. They also had a longer  time since their last sale (28 days versus 3 days), making sales recency a potentially useful indicator for prioritising agent follow-up.
+
+The clearest difference is activity: droppers browse the platform far less, about 2 page views for a typical dropper against 10 for an active agent. They have also done much less business overall, with a typical dropper making about 9 sales in their lifetime compared with about 159 for an active agent. This suggests many droppers were always small agents rather than strong performers who suddenly fell away, but we need to look at each agent’s sales over time to confirm which is which.
+
+Gaps since last sale only reflect how we defined the groups, so they can’t predict who will drop off. They can still help us decide whom to call first: half of droppers have gone 18 to 55 days without a sale, and some have gone over 200 days. Next, we’ll build an early-warning model based on agents’ recent browsing and sales activity, so we can spot agents who are slowing down before they stop selling altogether.
+
+
