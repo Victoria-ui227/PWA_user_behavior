@@ -16,8 +16,6 @@ Browsing, quotes, policies created, and paid business are treated as separate si
 • Paid business: not on this tab. Hand checks from Oct 3 cover 34 of these agents: 301 sales, 53 unpaid, 268 on the PWA and 33 on the old platform.  
 
 
-### PROBLEM STATEMENT 
-
 LAMI cannot yet tell which agents are losing business and which are still producing, because the data mixes browsing, quotes and policies written, and does not record payment or platform. Every agent on this tab sold at least once since Sep 30, so the risk is a slowdown, not a full stop: an agent who sold hundreds of policies before Sep 30 and only 1 or 2 since looks active on a simple "has sales" check.
 
 
@@ -100,20 +98,7 @@ Kericho contributed 3.5% of all policies, but this came from just one agent, Lei
 - History filters out the next big group. Of the 193 agents who browse widely, only 115 also have a strong track record of 180+ quotes and 190+ sales before Sep 30. Almost everyone with a strong history is still selling. 104 of those 115 agents wrote 4 or more policies since Sep 30.
 - The 104 agents at the bottom (25%) wrote 56% of all policies since Sep 30. They are LAMI’s core producers. The 11 who drop out at the last step are the follow-up list. They browse a lot and have a strong history, but are selling below the median now. Edvan Insurance Agency is one of them, and an earlier check found most of its sales were on the old platform.
 
-### Next Steps
-
-- **Track platform activity over time**: Monitor changes in agents’ views, quotes, and sales to identify shifts in engagement and business activity. We have snapshots from October 3, 8, and 12. To establish a reliable trend, we need dated records of individual views, quotes, and sales.
-- **Compare droppers with active agents**: Analyze differences in browsing activity, quotes, platform usage, unpaid policies, and time since the last sale to identify patterns that distinguish agents who have stopped generating business from those who remain active.
-- **Identify product preferences**: Determine which products droppers and active agents view and purchase most frequently. Since the current sheet contains aggregate counts, this will require product-level viewing and sales data to establish agents’ preferred products and whether browsing translates into purchases.
-- **Measure the shift between platforms**: Use PWA sales and Old Platform sales to calculate each agent’s share of business generated through PWA. This will help identify agents who appear inactive on the new platform but continue to generate sales through the old platform.
-- **Recency-based definition of a dropper**: Move beyond the fixed September 30 cutoff by considering the number of days since an agent’s last sale alongside their historical sales frequency. This would provide a more relevant definition of inactivity and help reprioritize the droppers list based on each agent’s usual business pattern.
-
-#### **'Active' and 'Dropper' Agents Business Activity**
-
-We compared 187 agents who have made no sales since 30 September (“droppers”) with 578 agents who are still selling.After running a test(Mann-Whitney Test) to compare the interaction of the agents with the platform in terms of; browsing, quotes, and polices created both paid and unpaid, there was a significant difference between the two groups. Dropper agents had substantially lower browsing activity(averagely), lifetime quotes and lifetime sales. They also had a longer  time since their last sale (28 days versus 3 days), making sales recency a potentially useful indicator for prioritising agent follow-up.
-
-The clearest difference is activity: droppers browse the platform far less, about 2 page views for a typical dropper against 10 for an active agent. They have also done much less business overall, with a typical dropper making about 9 sales in their lifetime compared with about 159 for an active agent. This suggests many droppers were always small agents rather than strong performers who suddenly fell away, but we need to look at each agent’s sales over time to confirm which is which.
-
-Gaps since last sale only reflect how we defined the groups, so they can’t predict who will drop off. They can still help us decide whom to call first: half of droppers have gone 18 to 55 days without a sale, and some have gone over 200 days. Next, we’ll build an early-warning model based on agents’ recent browsing and sales activity, so we can spot agents who are slowing down before they stop selling altogether.
+### *Sales Recency*
+- How long has it been since the agent made the last sale
 
 
