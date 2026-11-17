@@ -98,7 +98,7 @@ Kericho contributed 3.5% of all policies, but this came from just one agent, Lei
 - History filters out the next big group. Of the 193 agents who browse widely, only 115 also have a strong track record of 180+ quotes and 190+ sales before Sep 30. Almost everyone with a strong history is still selling. 104 of those 115 agents wrote 4 or more policies since Sep 30.
 - The 104 agents at the bottom (25%) wrote 56% of all policies since Sep 30. They are LAMI’s core producers. The 11 who drop out at the last step are the follow-up list. They browse a lot and have a strong history, but are selling below the median now. Edvan Insurance Agency is one of them, and an earlier check found most of its sales were on the old platform.
 
-### *Sales Recency*
-- How long has it been since the agent made the last sale
 
+### **Predicting Agents' Purchase Behavior**
 
+- Using all the features we have, agents' browsing and purchase patterns to flag an agent as a dropper and later predicting who will be a dropper.
