@@ -102,3 +102,9 @@ Kericho contributed 3.5% of all policies, but this came from just one agent, Lei
 ### **Predicting Agents' Purchase Behavior**
 
 - Using all the features we have, agents' browsing and purchase patterns to flag an agent as a dropper and later predicting who will be a dropper.
+
+  #### *Findings*
+  
+  - Agents who regularly browse and create quotes always stay. People who rarely log in or browse are the most likely to leave. Low activity tells us someone is probably on their way out, but it doesn’t explain why. Activity dropping is the clearest sign someone is about to leave.
+  - Past sales matter and where they were done. People with a solid sales record tend to stay. But people whose sales were mostly on the old platform are more likely to leave. In other words, people who never really moved their business onto the new app are the ones drifting away.
+  - Location plays a role(although it needs more evidence). One version of the tool suggested people in Nakuru leave more often and people in Mombasa less often. The other version found location made almost no difference. We’ll treat this as something to check, not a conclusion.
